@@ -1,0 +1,3 @@
+App\Entity\Attendee:
+    attendee_1:
+        __construct: [ '00000000-0000-0000-0000-000000000000', 'Divad', 'Remmos', 'divad.remmos@myposter.de' ]
